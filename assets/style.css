@@ -1,0 +1,10 @@
+* {
+    color: darkmagenta;
+    background-color: rgb(241, 198, 183);
+    font-size: 16px;
+}
+
+header {
+    font-size: 300%;
+    font-weight: bold;
+}
